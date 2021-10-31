@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Physics and Computer Science, Georgetown University, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2021: NSF-REU Summer Researcher
+  * University of Hawai'i
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Dr. Sloan Coats
 
-* Fall 2015: Research Assistant
-  * Github University
+* Spring 2021: MDI Scholar
+  * Massive Data Institute
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Lisa Singh
   
 Skills
 ======
