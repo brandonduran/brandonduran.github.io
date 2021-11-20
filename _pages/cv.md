@@ -60,3 +60,12 @@ Teaching
 Service and leadership
 ======
 * Peer Supporter, Project Lighthouse
+
+Awards and Presentations
+======
+* PIDGM, Paleo Isotopic Dynamics with a Global Model
+  * CUR Symposium (Oct '21), AGU Fall Meeting (Dec '21)
+* National Hispanic Scholar
+  * 2020/21, 2021/22
+* AGU Fall Meeting Student Travel Grant Recipient, 2021
+* Cognizant Pathways in Technology Scholar, 2021
