@@ -16,7 +16,6 @@ Education
 Work experience
 ======
 * Summer 2021: NSF-REU Summer Researcher, University of Hawai'i
-  * 
   * Duties included: Tagging issues
   * Supervisor: Dr. Sloan Coats
 
