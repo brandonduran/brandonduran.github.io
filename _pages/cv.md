@@ -20,19 +20,22 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Dr. Sloan Coats
 
-* Spring 2021: MDI Scholar
-  * Massive Data Institute
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Lisa Singh
+* Spring 2021: MDI Scholar, Massive Data Institute
+  * Produced code to conduct sentiment and emotion analysis on Iraqi tweets to support better prediction of forced migration
+  * Implemented Apache Spark into existing codebase to maximize efficiency through parallel processing
+
+* August 2020- : Teaching Assistant, Department of Physics
+  * Collaborated with graduate students to guide students through introductory physics lab sessions (in-person and virtual)
+  * Hosted office hours to answer students’ questions and help solidify concepts presented in lecture
   
 Skills
 ======
-* Skill 1
 * Languages
   * Python
   * MATLAB
   * C++
-* Skill 3
+  * Java
+  * R
 
 <!--
 Publications
@@ -47,13 +50,13 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
--->
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer Supporter, Project Lighthouse
