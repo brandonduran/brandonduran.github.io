@@ -14,4 +14,4 @@ I am currently in my final year as an undergraduate at Georgetown University, st
 
 Outside of school, I enjoy baking, running, hiking, and watching soccer. 
 
-** 04/04/22 ** I was awarded the NSF-GRFP! I am beyond thankful for my mentors, advisors, and friends for their support along this wonderful journey.
+**04/04/22** I was awarded the NSF-GRFP! I am beyond thankful for my mentors, advisors, and friends for their support along this wonderful journey.
