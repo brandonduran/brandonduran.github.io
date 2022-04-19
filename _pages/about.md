@@ -16,4 +16,4 @@ Outside of school, I enjoy baking, running, hiking, and watching soccer.
 
 **04/04/22** I was awarded the NSF-GRFP! I am beyond thankful for my mentors, advisors, and friends for their support along this wonderful journey.
 
-**04/22** I will be going the Climate Sciences program at Scripps Insitution of Oceanography in Fall 2022! Beyond excited to get started in San Diego and looking forward to getting into some applied machine learning research!
+**04/22** I will be joining the Climate Sciences program at Scripps Insitution of Oceanography in Fall 2022! Beyond excited to get started in San Diego and looking forward to getting into some applied machine learning research!
