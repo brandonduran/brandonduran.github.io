@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Brandon Duran"
   avatar           : "profilepic.JPG"
-  bio              : "I am a senior physics and computer science undergraduate at Georgetown University."
-  location         : "Washington DC"
+  bio              : "I am a first year PhD student at Scripps Institution of Oceanography."
+  location         : "San Diego"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=H-2EVgQAAAAJ"
-  email            : "bmd 84 (at) georgetown (dot) edu"
+  email            : "bmduran (at) ucsd (dot) edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
