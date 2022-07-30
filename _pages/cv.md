@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in Physics and Computer Science, Georgetown University, 2022 (expected)
+* B.A. in Physics and Computer Science, Georgetown University, 2022
 
 Work experience
 ======
