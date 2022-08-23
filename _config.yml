@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brandon Duran (he/him)"
+title                    : "Brandon Duran"
 title_separator          : "-"
 name                     : &name "Brandon Duran"
 description              : &description "PhD Student @ Scripps Institution of Oceanography"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brandon Duran"
+  name             : "Brandon Duran (he/him)"
   avatar           : "profilepic.JPG"
   bio              : "I am a first year PhD student at Scripps Institution of Oceanography."
   location         : "San Diego"
