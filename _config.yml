@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brandon Duran"
+title                    : "Brandon Duran (he/him)"
 title_separator          : "-"
-name                     : &name "Brandon Duran (he/him)"
+name                     : &name "Brandon Duran"
 description              : &description "PhD Student @ Scripps Institution of Oceanography"
 url                      : https://brandonduran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brandon Duran"
+  name             : "Brandon Duran (he/him)"
   avatar           : "profilepic.JPG"
   bio              : "I am a first year PhD student at Scripps Institution of Oceanography."
   location         : "San Diego"
