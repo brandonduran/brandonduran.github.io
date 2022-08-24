@@ -14,6 +14,8 @@ Most recently, I spent Summer 2021 participating in the Earth Science on Volcani
 
 Outside of school, I enjoy baking, running, hiking, and watching soccer. I have also been getting more into cycling since the pandemic.
 
+**07/22** I moved down to La Jolla and got started on some intriguing ML & heat wave research! Super excited to start this new chapter.
+
 **04/22** I was awarded the NSF-GRFP! I am beyond thankful for my mentors, advisors, and friends for their support.
 
 **04/22** I will be joining the Climate Sciences program at Scripps Insitution of Oceanography in Fall 2022! Beyond excited to get started in San Diego and looking forward to getting into some applied machine learning research!
