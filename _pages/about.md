@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD Student in the Climate Sciences (CS) program at Scripps Institution of Oceanography who is interested in aerosol-cloud interactions and marine cloud brightening, specifically its impact on climate feedbacks and teleconnections. 
+I am a second-year PhD Student in the Climate Sciences (CS) program at Scripps Institution of Oceanography who is interested in aerosol-cloud interactions and marine cloud brightening, specifically its impact on climate feedbacks and teleconnections. I am co-advised by [Nick Lutsko](https://www.sio-climatephysics.com/) and [Shang-Ping Xie](http://sxie.ucsd.edu/). 
 
 I spent Summer 2021 participating in the Earth Science on Volcanic Islands NSF-REU through the University of Hawai'i at Mānoa, where I worked studied paleoclimate, specifically water isotopes, under the supervision of Dr. Sloan Coats. My final project PIDGM can be seen [here](https://pidgm.github.io/index.html). I presented my work at the 2021 Council on Undergraduate Research (CUR) symposium and at the 2021 AGU Fall Meeting.
 
