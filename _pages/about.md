@@ -10,14 +10,16 @@ redirect_from:
 
 I am a second-year PhD Student in the Climate Sciences (CS) program at Scripps Institution of Oceanography who is interested in aerosol-cloud interactions and marine cloud brightening, specifically its impact on climate feedbacks and teleconnections. I am co-advised by [Nick Lutsko](https://www.sio-climatephysics.com/) and [Shang-Ping Xie](http://sxie.ucsd.edu/). 
 
-I spent Summer 2021 participating in the Earth Science on Volcanic Islands NSF-REU through the University of Hawai'i at Mānoa, where I worked studied paleoclimate, specifically water isotopes, under the supervision of Dr. Sloan Coats. My final project PIDGM can be seen [here](https://pidgm.github.io/index.html). I presented my work at the 2021 Council on Undergraduate Research (CUR) symposium and at the 2021 AGU Fall Meeting.
-
-Outside of school, I enjoy baking, running, hiking, and cycling.
+Outside of my work, I enjoy baking, running, hiking, and cycling.
 
 **06/24** I presented on a new method for diagnosing effective radiative forcing from aerosol-cloud interactions in climate models at the 2024 CFMIP Meeting in Boston College. Thanks to the organizers for having me!
 
 **07/22** I moved down to La Jolla and got started on some intriguing ML & heat wave research! Super excited to start this new chapter.
 
 **04/22** I was awarded the NSF-GRFP! I am beyond thankful for my mentors, advisors, and friends for their support.
+
+**12/21** I presented my PIDGM work at the 2021 AGU Fall Meeting in New Orleans.
+
+**08/21** Wrapped up my final weeks participating in the Earth Science on Volcanic Islands NSF-REU through the University of Hawai'i at Mānoa! I worked on paleoclimate and water isotopes with Dr. Sloan Coats. My final project PIDGM can be seen [here](https://pidgm.github.io/index.html). I presented preliminary work at the 2021 Council on Undergraduate Research (CUR) symposium.
 
 Please reach out to me if you have questions about the grad school application process! I would be happy to share my perspective and answer any questions you might have.
