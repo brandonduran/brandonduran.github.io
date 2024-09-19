@@ -14,3 +14,12 @@
 .container .content {
     display: none;
     padding : 5px;
+
+.peach_bg {
+ /* flex-basis: 40%;*/
+  display:flex;
+  max-width:980px;
+  margin:auto;
+  align-items:center;
+}
+.description{padding:10px;}
