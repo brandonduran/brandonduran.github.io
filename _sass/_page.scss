@@ -45,12 +45,18 @@
 
 .align-image {
  /* flex-basis: 40%;*/
-  display:flex;
-  max-width:980px;
-  margin:auto;
+  /*display:flex;*/
+  max-width:780px;
+  /*margin:auto;*/
   align-items:center;
+  margin-left: 5px; 
+  margin-top: 0;
 }
-.description{padding:10px;}
+.description{
+   padding:10px;
+   display:flex;
+   text-align:left;
+}
 
 .page__lead {
   font-family: $global-font-family;
