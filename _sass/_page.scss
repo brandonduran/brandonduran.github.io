@@ -54,8 +54,9 @@
 }
 .description{
    padding:10px;
-   display:flex;
-   text-align:left;
+   /*display:flex;*/
+   display: inline-block;
+   text-align: start;
 }
 
 .page__lead {
