@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Duran, B.M.**, Wall, C.J., Lutsko, N.J., Michibata, T., Ma, P.L., Qin, Y., Duffy, M.L., Medeiros, B., and Debolskiy, M. A new method for diagnosing effective radiative forcing from aerosol-cloud interactions in climate models (preprint). *Atmospheric Chemistry and Physics*. https://doi.org/10.5194/egusphere-2024-3063. ([manuscript](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3063/))
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
