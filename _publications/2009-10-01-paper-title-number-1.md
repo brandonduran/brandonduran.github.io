@@ -14,4 +14,7 @@ This paper is about the number 1. The number 2 is left for future work.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
 -->
+
+**Duran, B.M.**, Wall, C.J., Lutsko, N.J., Michibata, T., Ma, P.L., Qin, Y., Duffy, M.L., Medeiros, B., and Debolskiy, M. A new method for diagnosing effective radiative forcing from aerosol-cloud interactions in climate models (preprint). *Atmospheric Chemistry and Physics*. https://doi.org/10.5194/egusphere-2024-3063. ([manuscript](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3063/))
