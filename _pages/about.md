@@ -12,6 +12,8 @@ I am a third-year PhD Student in the Climate Sciences (CS) program at Scripps In
 
 Outside of my work, I enjoy baking, running, hiking, and cycling.
 
+**02/25** Our paper introducing a new method for diagnosing effective radiative forcing from aerosol-cloud interactions in climate models was just published in _Atmospheric Chemistry and Physics_. [Check it out!](https://acp.copernicus.org/articles/25/2123/2025/)
+
 **06/24** I presented on a new method for diagnosing effective radiative forcing from aerosol-cloud interactions in climate models at the 2024 CFMIP Meeting in Boston College. Thanks to the organizers for having me!
 
 **07/22** I moved down to La Jolla and got started on some intriguing ML & heat wave research! Super excited to start this new chapter.
