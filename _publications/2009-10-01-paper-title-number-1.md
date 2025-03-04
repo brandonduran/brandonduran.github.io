@@ -17,4 +17,4 @@ Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal
 
 -->
 
-**Duran, B.M.**, Wall, C.J., Lutsko, N.J., Michibata, T., Ma, P.L., Qin, Y., Duffy, M.L., Medeiros, B., and Debolskiy, M. A new method for diagnosing effective radiative forcing from aerosol-cloud interactions in climate models (preprint). *Atmospheric Chemistry and Physics*. https://doi.org/10.5194/egusphere-2024-3063. ([manuscript](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3063/))
+**Duran, B.M.**, Wall, C.J., Lutsko, N.J., Michibata, T., Ma, P.L., Qin, Y., Duffy, M.L., Medeiros, B., and Debolskiy, M. A new method for diagnosing effective radiative forcing from aerosol-cloud interactions in climate models (2025). *Atmospheric Chemistry and Physics*. https://doi.org/10.5194/acp-25-2123-2025. ([manuscript](https://acp.copernicus.org/articles/25/2123/2025/))
