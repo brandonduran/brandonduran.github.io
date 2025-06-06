@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD Student in the Climate Sciences (CS) program at Scripps Institution of Oceanography interested in aerosol-cloud interactions and marine cloud brightening, specifically its impact on climate feedbacks and teleconnections. I am co-advised by [Nick Lutsko](https://www.sio-climatephysics.com/) and [Shang-Ping Xie](http://sxie.ucsd.edu/). 
+I am a third-year PhD Candidate in the Climate Sciences (CS) program at Scripps Institution of Oceanography interested in aerosol-cloud interactions and marine cloud brightening, specifically its impact on climate feedbacks and teleconnections. I am co-advised by [Nick Lutsko](https://www.sio-climatephysics.com/) and [Shang-Ping Xie](http://sxie.ucsd.edu/). 
 
 Outside of my work, I enjoy baking, running, hiking, and cycling.
 
