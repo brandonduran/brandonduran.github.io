@@ -12,7 +12,7 @@ I am a third-year PhD Candidate in the Climate Sciences (CS) program at Scripps 
 
 Outside of my work, I enjoy baking, running, hiking, and cycling.
 
-**06/25** I presented some preliminary results on the high cloud response to aerosols virtually at the _2025 CESM Workshop_. Thanks to the organizers for giving me this opportunity!
+**06/25** I presented some preliminary results on the high cloud response to aerosols virtually at the [_2025 CESM Workshop_](https://youtu.be/gJhN4lbjjlY?t=22671). Thanks to the organizers for the opportunity!
 
 **02/25** I presented my recent work on ACI on _Kernel Day_ at the [41st ECS Symposium](https://www.youtube.com/watch?v=CmW1qWBBR9Y&t=2407s). Thanks to the organizers for inviting me!
 
