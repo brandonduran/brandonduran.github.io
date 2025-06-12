@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/ 
         
-  #- title: "Food"
-    #url: /food/
+  - title: "Talks"
+    url: /talks/
     
   - title: "CV"
     url: /cv/
