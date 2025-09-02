@@ -11,6 +11,8 @@ author_profile: true
 
 Wall, C.J, Paynter, D., Qin, Y., Debolskiy, M., Duffy, M.L., Michibata, T., **Duran, B.M.**, Lutsko, N.J., Ma, P.L., Medeiros, B., Storelvmo, T., and Zhao, M. Decomposing Cloud Radiative Feedbacks by Cloud-Top Phase (2025). *Journal of Climate*. https://doi.org/10.1175/JCLI-D-24-0538.1. ([manuscript](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-24-0538.1/JCLI-D-24-0538.1.xml))
 
+Michibata, T., Wall, C.J., Hirota, N., **Duran, B.M.**, and Nozawa, T. Recent Advances in the Observation and Modeling of Aerosol-Cloud Interactions, Cloud Feedbacks, and Earth’s Energy Imbalance: A Review (2025). *Current Pollution Reports*. https://doi.org/10.1007/s40726-025-00382-6. ([manuscript](https://link.springer.com/article/10.1007/s40726-025-00382-6#citeas))
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
