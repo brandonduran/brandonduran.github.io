@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD Candidate in the Climate Sciences (CS) program at Scripps Institution of Oceanography interested in aerosol-cloud interactions and their representation in large-scale climate models. I am co-advised by [Nick Lutsko](https://www.sio-climatephysics.com/) and [Shang-Ping Xie](http://sxie.ucsd.edu/). 
+I am a fourth-year PhD Candidate in the Climate Sciences (CS) program at Scripps Institution of Oceanography interested in aerosol-cloud interactions and their representation in large-scale climate models. I am co-advised by [Nick Lutsko](https://www.sio-climatephysics.com/) and [Shang-Ping Xie](http://sxie.ucsd.edu/). 
 
 Outside of my work, I enjoy baking, running, hiking, and cycling.
 
