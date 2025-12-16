@@ -409,7 +409,7 @@
   height: 550px;        /* controls size, not width */
   object-fit: contain;  /* or 'cover' if you want cropping */
 }
-@media (max-width: 768px) {
+@media (max-width: 925px) {
   .align-image {
     flex-direction: column;
     width: 100%;
@@ -419,7 +419,7 @@
     width: 100%;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 925px) {
   .figure {
     height: auto;
     width: 100%;
