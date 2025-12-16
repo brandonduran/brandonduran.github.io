@@ -67,7 +67,7 @@
 }*/
 .description {
   font-family: Lato, sans-serif;
-  font-size: 11px;
+  font-size: 13px;
   flex: 1;               /* text takes remaining space */
 }
 .img {
@@ -406,9 +406,15 @@
 }
 .figure {
   aspect-ratio: 4 / 3;  /* <-- FIXED aspect ratio */
-  height: 240px;        /* controls size, not width */
+  height: 480px;        /* controls size, not width */
   object-fit: contain;  /* or 'cover' if you want cropping */
 }
+@media (max-width: 768px) {
+  .align-image {
+    flex-direction: column;
+  }
+}
+
 
 /*
    Related
