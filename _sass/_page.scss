@@ -406,7 +406,7 @@
 }
 .figure {
   aspect-ratio: 4 / 3;  /* <-- FIXED aspect ratio */
-  height: 480px;        /* controls size, not width */
+  height: 550px;        /* controls size, not width */
   object-fit: contain;  /* or 'cover' if you want cropping */
 }
 @media (max-width: 768px) {
