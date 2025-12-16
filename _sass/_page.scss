@@ -46,6 +46,8 @@
 .align-image {
  /* flex-basis: 40%;*/
   display:flex;
+   align-items: flex-start;
+   gap: 20px;
   /*align-items: center;
   justify-content: center;
   max-width:1000px;
@@ -54,14 +56,19 @@
   margin-left: 5px; 
   margin-top: 0;*/
 }
-.description {
+/*.description {
    /*padding:10px;
    /*display:flex;
    display: inline-block;
    text-align: start;*/
-   float: left;
+   /*float: left;
    font-size: 15px;
    padding-left: 10px;
+}*/
+.description {
+  font-family: Lato, sans-serif;
+  font-size: 11px;
+  flex: 1;               /* text takes remaining space */
 }
 .img {
     max-width: 50%;
@@ -397,7 +404,11 @@
     text-decoration: none;
   }
 }
-
+.figure {
+  aspect-ratio: 4 / 3;  /* <-- FIXED aspect ratio */
+  height: 240px;        /* controls size, not width */
+  object-fit: contain;  /* or 'cover' if you want cropping */
+}
 
 /*
    Related
