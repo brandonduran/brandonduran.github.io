@@ -412,8 +412,14 @@
 @media (max-width: 768px) {
   .align-image {
     flex-direction: column;
+    width: 100%;
+  }
+
+  .align-image > * {
+    width: 100%;
   }
 }
+
 
 
 /*
