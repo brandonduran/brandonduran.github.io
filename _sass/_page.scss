@@ -405,7 +405,7 @@
   }
 }
 .figure {
-  aspect-ratio: 4 / 3;  /* <-- FIXED aspect ratio */
+  /*aspect-ratio: 4 / 3;  /* <-- FIXED aspect ratio */
   height: 550px;        /* controls size, not width */
   object-fit: contain;  /* or 'cover' if you want cropping */
 }
