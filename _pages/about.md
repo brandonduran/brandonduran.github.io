@@ -12,6 +12,7 @@ I am a fourth-year PhD Candidate in the Climate Sciences (CS) program at Scripps
 
 Outside of my work, I enjoy baking, running, hiking, and cycling.
 
+**12/25** We just submitted our work investigating aerosol-ice-cloud interactions in a CAM6 PPE to *Journal of Climate*. Check out the [preprint on Authorea](https://www.authorea.com/users/830168/articles/1370847-aerosol-ice-cloud-interactions-in-a-perturbed-parameter-ensemble)!
 **06/25** I presented some preliminary results on the high cloud response to aerosols virtually at the [_2025 CESM Workshop_](https://youtu.be/gJhN4lbjjlY?t=22671). Thanks to the organizers for the opportunity!
 
 **02/25** I presented my recent work on ACI on _Kernel Day_ at the [41st ECS Symposium](https://www.youtube.com/watch?v=CmW1qWBBR9Y&t=2407s). Thanks to the organizers for inviting me!
@@ -19,8 +20,6 @@ Outside of my work, I enjoy baking, running, hiking, and cycling.
 **02/25** Our paper introducing a new method for diagnosing effective radiative forcing from aerosol-cloud interactions in climate models was just published in _Atmospheric Chemistry and Physics_. [Check it out!](https://acp.copernicus.org/articles/25/2123/2025/)
 
 **06/24** I presented on a new method for diagnosing effective radiative forcing from aerosol-cloud interactions in climate models at the 2024 CFMIP Meeting in Boston College. Thanks to the organizers for having me!
-
-**07/22** I moved down to La Jolla and got started on some intriguing ML & heat wave research! Super excited to start this new chapter.
 
 **04/22** I was awarded the NSF-GRFP! I am beyond thankful for my mentors, advisors, and friends for their support.
 
