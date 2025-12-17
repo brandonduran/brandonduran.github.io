@@ -70,8 +70,9 @@ h2.research-header {
    font-size: 15px;
    padding-left: 10px;
 }*/
-.description {
+div.description {
   font-family: Lato, sans-serif;
+  line-height: 1.6667;
   font-size: 13px;
   flex: 1;               /* text takes remaining space */
 }
