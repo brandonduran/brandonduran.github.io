@@ -6,10 +6,11 @@ author_profile: true
 <h2 class="research-header" >TEMP HEADER</h2>
 <div class="align-image">
   <div class="description"> 
-    We use MODIS satellite simulator output and cloud radiative kernels to diagnose ERF<sub>ACI</sub> in 5 CMIP6 models, yielding estimates for the
-      Twomey Effect, LWP adjustment, and cloud fraction (CF) adjustment. 
-    The magnitude of the global-mean Twomey effect and LWP adjustment are strongly controlled by the model mean-state liquid cloud fraction. 
-    Our finding hints at a potential emergent constraint on 2 components of ERFaci, which we hope to explore in a larger ensemble.
-    Models with too few liquid clouds in their base state may be underestimating the strength of the Twomey effect and LWP adjustment. 
-  See <a href="https://acp.copernicus.org/articles/25/2123/2025/">Duran et al. (2025)</a> for more details.</div>
+    The MODIS cloud radiative kernel decomposition of SW ERFaci requires implementation of the new joint histogram diagnostics in a GCM, as well as 
+    a Python script that performs the decomposition. To update your GCM to include the new r<sub>e</sub>-CWP joint histogram diagnostics, the source file that interfaces with COSP
+    should be modified <a href="https://github.com/E3SM-Project/E3SM/pull/6407/files">(view minimum code changes here)</a>. The code to perform the decomposition of SW ERFaci from ice
+    clouds can be found <a href="https://github.com/brandonduran/modisIceACI">here</a>, and the code to conduct the decomposition for liquid clouds can be found 
+    <a href="https://github.com/brandonduran/modis_cloud_radiative_kernels">here</a>. The <a href="https://github.com/CFMIP/COSPv2.0">COSP<a/> code changes necessary for the MODIS joint histograms should be available in 
+    the master branch or tags>=v2.1.8
+  </div>
 </div>
