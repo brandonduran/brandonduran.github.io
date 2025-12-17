@@ -13,7 +13,7 @@ Wall, C.J, Paynter, D., Qin, Y., Debolskiy, M., Duffy, M.L., Michibata, T., **Du
 
 Michibata, T., Wall, C.J., Hirota, N., **Duran, B.M.**, and Nozawa, T. Recent Advances in the Observation and Modeling of Aerosol-Cloud Interactions, Cloud Feedbacks, and Earth’s Energy Imbalance: A Review (2025). *Current Pollution Reports*. https://doi.org/10.1007/s40726-025-00382-6. ([manuscript](https://link.springer.com/article/10.1007/s40726-025-00382-6#citeas))
 
-**Duran, B.M.**, Lutsko, N.J., and Wall, C.J. Aerosol-Ice-Cloud Interactions in a Perturbed Parameter Ensemble (preprint). ([manuscript]())
+**Duran, B.M.**, Lutsko, N.J., and Wall, C.J. Aerosol-Ice-Cloud Interactions in a Perturbed Parameter Ensemble (preprint). ([manuscript](https://www.authorea.com/users/830168/articles/1370847-aerosol-ice-cloud-interactions-in-a-perturbed-parameter-ensemble))
 
 
 {% if author.googlescholar %}
