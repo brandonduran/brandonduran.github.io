@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
 **2025**
 
 **Duran, B.M.**, Wall, C.J., Lutsko, N.J., Michibata, T., Ma, P.L., Qin, Y., Duffy, M.L., Medeiros, B., and Debolskiy, M. A new method for diagnosing effective radiative forcing from aerosol-cloud interactions in climate models (2025). *Atmospheric Chemistry and Physics*. https://doi.org/10.5194/acp-25-2123-2025. ([manuscript](https://acp.copernicus.org/articles/25/2123/2025/))
@@ -15,10 +17,6 @@ Michibata, T., Wall, C.J., Hirota, N., **Duran, B.M.**, and Nozawa, T. Recent Ad
 
 **Duran, B.M.**, Lutsko, N.J., and Wall, C.J. Aerosol-Ice-Cloud Interactions in a Perturbed Parameter Ensemble (preprint). *Authorea* ([manuscript](https://www.authorea.com/users/830168/articles/1370847-aerosol-ice-cloud-interactions-in-a-perturbed-parameter-ensemble))
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
