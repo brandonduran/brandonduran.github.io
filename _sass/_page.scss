@@ -82,7 +82,7 @@ h2.research-header {
   }
   .video-column {
     flex: 1 1 calc(33.333% - 20px);
-    min-width: 300px; /* Forces stacking on small screens */
+    min-width: 150px; /* Forces stacking on small screens */
   }
 
   /* Aspect Ratio Box (keeps videos 16:9) */
