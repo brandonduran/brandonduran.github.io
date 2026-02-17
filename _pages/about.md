@@ -12,6 +12,8 @@ I am a fourth-year PhD Candidate in the Climate Sciences (CS) program at Scripps
 
 Outside of my work, I enjoy baking, running, hiking, and cycling.
 
+**02/26** I shared the results of our recent investigation of aerosol-ice-cloud interactions in CAM6 at the [CESM Winter Working Group Meeting](https://www.youtube.com/embed/CmW1qWBBR9Y?si=8a45P0hSUh-fcS7O&amp;start=2407).
+
 **12/25** We just submitted our work investigating aerosol-ice-cloud interactions in a CAM6 PPE to *Journal of Climate*. Check out the [preprint on Authorea](https://www.authorea.com/users/830168/articles/1370847-aerosol-ice-cloud-interactions-in-a-perturbed-parameter-ensemble)!
 
 **06/25** I presented some preliminary results on the high cloud response to aerosols virtually at the [_2025 CESM Workshop_](https://youtu.be/gJhN4lbjjlY?t=22671). Thanks to the organizers for the opportunity!
