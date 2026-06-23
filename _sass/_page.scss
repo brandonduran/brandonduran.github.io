@@ -483,7 +483,88 @@ div.description {
   }
 }
 
+/* ==========================================================================
+   Research item blocks (figure + text), equal-height, responsive
+   ========================================================================== */
 
+.research-item {
+  display: grid;
+  grid-template-columns: 3fr 2fr; /* text gets a bit more room than the figure */
+  gap: 1.5em 2em;
+  align-items: center;
+  margin-bottom: 3em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid $border-color; // remove this line if your theme has no $border-color var
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &__text {
+    grid-column: 1;
+    grid-row: 1;
+
+    h2 {
+      margin-top: 0;
+    }
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  &__figure {
+    grid-column: 2;
+    grid-row: 1;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+    img {
+      width: 100%;
+      height: 100%;
+      max-height: 260px;     /* keeps every figure roughly the same vertical size */
+      object-fit: contain;   /* scales the image to fit without cropping or distorting it */
+      border-radius: 4px;
+    }
+  }
+
+  /* alternate layout: figure on the left, text on the right */
+  &--reverse {
+    .research-item__text {
+      grid-column: 2;
+    }
+    .research-item__figure {
+      grid-column: 1;
+    }
+  }
+}
+
+/* Stack into a single column on smaller screens */
+@media screen and (max-width: $large) { // swap $large for whatever breakpoint var your theme uses, e.g. 768px
+  .research-item {
+    grid-template-columns: 1fr;
+    gap: 1em;
+
+    &__text,
+    &--reverse .research-item__text {
+      grid-column: 1;
+      grid-row: 1;
+    }
+
+    &__figure,
+    &--reverse .research-item__figure {
+      grid-column: 1;
+      grid-row: 2;
+    }
+
+    &__figure img {
+      max-height: 220px;
+    }
+  }
+}
 
 
 /*
