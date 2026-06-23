@@ -501,9 +501,6 @@ div.description {
   }
 
   &__text {
-    grid-column: 1;
-    grid-row: 1;
-
     h2 {
       margin-top: 0;
     }
@@ -514,8 +511,6 @@ div.description {
   }
 
   &__figure {
-    grid-column: 2;
-    grid-row: 1;
     margin: 0;
     display: flex;
     align-items: center;
@@ -530,16 +525,6 @@ div.description {
       border-radius: 4px;
     }
   }
-
-  /* alternate layout: figure on the left, text on the right */
-  &--reverse {
-    .research-item__text {
-      grid-column: 2;
-    }
-    .research-item__figure {
-      grid-column: 1;
-    }
-  }
 }
 
 /* Stack into a single column on smaller screens */
@@ -547,18 +532,6 @@ div.description {
   .research-item {
     grid-template-columns: 1fr;
     gap: 1em;
-
-    &__text,
-    &--reverse .research-item__text {
-      grid-column: 1;
-      grid-row: 1;
-    }
-
-    &__figure,
-    &--reverse .research-item__figure {
-      grid-column: 1;
-      grid-row: 2;
-    }
 
     &__figure img {
       max-height: 220px;
