@@ -3,61 +3,81 @@ layout: archive
 permalink: /teaching/
 author_profile: true
 ---
-<h2 class="research-header" >New method for diagnosing ERF<sub>ACI</sub> in global climate models</h2>
-<div class="align-image">
-    <img class="figure" src="/images/fig05.jpeg" alt="Emergent constraints on the Twomey effect and LWP adjustment. Each shape represents the estimate of the Twomey effect (purple) and the LWP adjustment (orange)
-    for a specific GCM. The vertical black line indicates the MODIS-reported global annual-mean liquid-cloud fraction over the 2003\textendash 2014 period. 
-    The grey shading represents the 68 \% confidence interval (1$\sigma$ range) for the MODIS global-mean LCF. 
-    The values in the top-middle section of the plot give the squared coefficient of determination for the ordinary least-squares linear-regression fit (\textit{r}\textsuperscript{2}) for each respective fit." width=400> <!-- height=300 width=425 style="padding: 10px;"-->
-  <div class="description"> 
-    We use MODIS satellite simulator output and cloud radiative kernels to diagnose ERF<sub>ACI</sub> in 5 CMIP6 models, yielding estimates for the
-      Twomey effect, LWP adjustment, and cloud fraction (CF) adjustment. 
-    The magnitude of the global-mean Twomey effect and LWP adjustment are strongly controlled by the model mean-state liquid cloud fraction. 
-    Our finding hints at a potential emergent constraint on 2 components of ERFaci, which we hope to explore in a larger ensemble.
-    Models with too few liquid clouds in their base state may be underestimating the strength of the Twomey effect and LWP adjustment. 
-  See <a href="https://acp.copernicus.org/articles/25/2123/2025/">Duran et al. (2025)</a> for more details.</div>
+<div class="research-item">
+    <div class="research-item__text">
+        <h2 id="new-method-for-diagnosing-erfaci">New method for diagnosing ERF<sub>ACI</sub> in global climate models</h2>
+        <p> 
+            We use MODIS satellite simulator output and cloud radiative kernels to diagnose ERF<sub>ACI</sub> in 5 CMIP6 models, yielding estimates for the
+              Twomey effect, LWP adjustment, and cloud fraction (CF) adjustment. 
+            The magnitude of the global-mean Twomey effect and LWP adjustment are strongly controlled by the model mean-state liquid cloud fraction. 
+            Our finding hints at a potential emergent constraint on 2 components of ERFaci, which we hope to explore in a larger ensemble.
+            Models with too few liquid clouds in their base state may be underestimating the strength of the Twomey effect and LWP adjustment. 
+              See <a href="https://acp.copernicus.org/articles/25/2123/2025/">Duran et al. (2025)</a> for more details.
+        </p>
+    </div>
+    <figure class="research-item__figure">
+        <img class="figure" src="/images/fig05.jpeg" alt="Emergent constraints on the Twomey effect and LWP adjustment. Each shape represents the estimate of the Twomey effect (purple) and the LWP adjustment (orange)
+        for a specific GCM. The vertical black line indicates the MODIS-reported global annual-mean liquid-cloud fraction over the 2003\textendash 2014 period. 
+        The grey shading represents the 68 \% confidence interval (1$\sigma$ range) for the MODIS global-mean LCF. 
+        The values in the top-middle section of the plot give the squared coefficient of determination for the ordinary least-squares linear-regression fit (\textit{r}\textsuperscript{2}) for each respective fit.">
+    </figure>  
 </div>
 
-<h2 class="research-header" >Aerosol-Ice-Cloud Interactions in a PPE</h2>
-<div class="align-image">
-  <div class="description">
-    Aerosol-ice-cloud interactions are relatively understudied and poorly quantified in models. In a CAM6 PPE, an overall cooling effect from ERFaci<sub>ice</sub> is estimated to be -0.43 Wm<sup>-2</sup>. Strong negative 
-      forcing from shifts to smaller ice crystals and increases in ice cloud extent over anthropogenic regions dominates the total response, 
-      but loss of high clouds over the tropical Pacific occurs in a pristine aerosol environment. We propose a pathway that relates aerosol-induced subtropical 
-      low cloud changes to tropical ice cloud changes via changes in boundary layer moisture. These findings suggest that the modeled ice cloud response to aerosols
-      can be either aerosol or dynamics-driven. Check out our <a href="https://www.authorea.com/users/830168/articles/1370847-aerosol-ice-cloud-interactions-in-a-perturbed-parameter-ensemble">preprint</a> for details!
-  </div>
-  <img src="/images/new-constraint-two-panels-w-bounds1.jpeg"
-    alt="Two panel figure. Left panel: scatterplot of global-mean MODIS ICF versus LW CRE. PPE members are shown as dots, and observations are shown 
-      as pink PDFs. Right panel: PDFs of total SW ERFaci ice. Red shaded histogram is the PPE data, red curve is the PPE prior, and a black posterior PDF
-      is constructed. Posterior is narrow, and 68% confidence intervals are listed in the upper right corner." class="figure" style="height:350px ">
+<div class="research-item">
+    <div class="research-item__text">
+        <h2 id="aci-ice">Aerosol-Ice-Cloud Interactions in a PPE</h2>
+        <p> 
+              Aerosol-ice-cloud interactions are relatively understudied and poorly quantified in models. In a CAM6 PPE, an overall cooling effect from ERFaci<sub>ice</sub> is estimated to be -0.43 Wm<sup>-2</sup>. Strong negative 
+              forcing from shifts to smaller ice crystals and increases in ice cloud extent over anthropogenic regions dominates the total response, 
+              but loss of high clouds over the tropical Pacific occurs in a pristine aerosol environment. We propose a pathway that relates aerosol-induced subtropical 
+              low cloud changes to tropical ice cloud changes via changes in boundary layer moisture. These findings suggest that the modeled ice cloud response to aerosols
+              can be either aerosol or dynamics-driven. See the <a href="https://doi.org/10.1175/JCLI-D-25-0724.1">manuscript</a> for details!
+        </p>
+    </div>
+    <figure class="research-item__figure">
+        <img class="figure" src="/images/new-constraint-two-panels-w-bounds1.jpeg" 
+            alt="Two panel figure. Left panel: scatterplot of global-mean MODIS ICF versus LW CRE. PPE members are shown as dots, and observations are shown 
+              as pink PDFs. Right panel: PDFs of total SW ERFaci ice. Red shaded histogram is the PPE data, red curve is the PPE prior, and a black posterior PDF
+              is constructed. Posterior is narrow, and 68% confidence intervals are listed in the upper right corner.">
+    </figure>  
 </div>
 
-<h2 class="research-header" >A simple model for the LWP adjustment in GCMs</h2>
-<div class="align-image">
-  <div class="description">
-    In a CAM6 PPE, we find that fractional changes in LWP accurately capture variability in the global mean LWP adjustment. This relationship is supported
-      by the idea of radiative saturation, or the diminishing impact of LWP on cloud albedo as albedo increases. We construct a simple model based on this 
-      principle to predict the spatial pattern of the LWP adjustment, and find that a simple model can capture the spatial pattern, but not the magnitude, of 
-      cooling from aerosol-induced LWP changes in CAM6. Several biases are responsible for this, including the overestimation of cloud susceptibility when using 
-      grid-mean cloud properties. We also find that variations in the warm rain autoconversion parameterization are responsible for the large spread in the LWP adjustment 
-      across the PPE.
-  <img src="/images/gm-lwp-relationship.jpeg"
-    alt="BLANK." class="figure">
+<div class="research-item">
+    <div class="research-item__text">
+        <h2 id="lwp-simple-model">A simple model for the LWP adjustment in GCMs</h2>
+        <p> 
+              In a CAM6 PPE, we find that fractional changes in LWP accurately capture variability in the global mean LWP adjustment. This relationship is supported
+              by the idea of radiative saturation, or the diminishing impact of LWP on cloud albedo as albedo increases. We construct a simple model based on this 
+              principle to predict the spatial pattern of the LWP adjustment, and find that a simple model can capture the spatial pattern, but not the magnitude, of 
+              cooling from aerosol-induced LWP changes in CAM6. Several biases are responsible for this, including the overestimation of cloud susceptibility when using 
+              grid-mean cloud properties. We also find that variations in the warm rain autoconversion parameterization are responsible for the large spread in the LWP adjustment 
+              across the PPE.
+        </p>
+    </div>
+    <figure class="research-item__figure">
+        <img class="figure" src="/images/gm-lwp-relationship.jpeg" 
+            alt="BLANK.">
+    </figure>  
 </div>
 
-<h2 class="research-header" >Decomposing Cloud Radiative Feedbacks by Cloud-Top Phase</h2>
-<div class="align-image">
-  <div class="description" style="font-family:Lato,sans-serif; font-size: 11.0;"> Changes in cloud scattering properties and emissivity that arise from warming cause substantial radiative feedbacks,
-      and the relative importance of the underlying mechanisms is poorly understood. One leading hypothesis is that ice-to-liquid conversions cause clouds
-      to optically thicken, producing a major negative feedback. By developing a method to decompose cloud radiative feedbacks by cloud-top phase, we find that the global mean of the net cloud scattering
-      and emissivity feedback from cloud-phase conversions ranges from −0.17 to −0.01 Wm<sup>-2</sup> K<sup>-1</sup>, while the overall net cloud feedback ranges from 0.02 to 0.91 Wm<sup>-2</sup> K<sup>-1</sup>.
-      The multi-model mean of the cloud scattering and emissivity feedback from cloud-phase conversions is approximately 19% of the magnitude of the multi-model mean of the overall
-      cloud feedback (−0.10 Wm<sup>-2</sup> K<sup>-1</sup> vs. 0.52 Wm<sup>-2</sup> K<sup>-1</sup>). These results indicate that cloud-phase conversions cause a robust negative feedback by changing cloud scattering and emissivity,
-      but this mechanism makes a modest contribution to the overall cloud feedback at the global scale. 
-  See <a href="https://journals.ametsoc.org/view/journals/clim/38/16/JCLI-D-24-0538.1.xml">Wall et al. (2025)</a> for more details.</div>
-      <img src="/images/fig-from-wall25.jpg"
-    alt="Comparison of the overall cloud feedback and the cloud scattering and emissivity feedback from cloud-phase changes." class="figure">
+<div class="research-item">
+    <div class="research-item__text">
+        <h2 id="ct-phase">Decomposing Cloud Radiative Feedbacks by Cloud-Top Phase</h2>
+        <p> 
+          Changes in cloud scattering properties and emissivity that arise from warming cause substantial radiative feedbacks,
+          and the relative importance of the underlying mechanisms is poorly understood. One leading hypothesis is that ice-to-liquid conversions cause clouds
+          to optically thicken, producing a major negative feedback. By developing a method to decompose cloud radiative feedbacks by cloud-top phase, we find that the global mean of the net cloud scattering
+          and emissivity feedback from cloud-phase conversions ranges from −0.17 to −0.01 Wm<sup>-2</sup> K<sup>-1</sup>, while the overall net cloud feedback ranges from 0.02 to 0.91 Wm<sup>-2</sup> K<sup>-1</sup>.
+          The multi-model mean of the cloud scattering and emissivity feedback from cloud-phase conversions is approximately 19% of the magnitude of the multi-model mean of the overall
+          cloud feedback (−0.10 Wm<sup>-2</sup> K<sup>-1</sup> vs. 0.52 Wm<sup>-2</sup> K<sup>-1</sup>). These results indicate that cloud-phase conversions cause a robust negative feedback by changing cloud scattering and emissivity,
+          but this mechanism makes a modest contribution to the overall cloud feedback at the global scale. 
+          See <a href="https://journals.ametsoc.org/view/journals/clim/38/16/JCLI-D-24-0538.1.xml">Wall et al. (2025)</a> for more details.
+        </p>
+    </div>
+    <figure class="research-item__figure">
+        <img class="figure" src="/images/fig-from-wall25.jpg" 
+            alt="Comparison of the overall cloud feedback and the cloud scattering and emissivity feedback from cloud-phase changes.">
+    </figure>  
 </div>
 
 
