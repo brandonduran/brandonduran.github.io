@@ -489,7 +489,7 @@ div.description {
 
 .research-item {
   display: grid;
-  grid-template-columns: 3fr 2fr; /* text gets a bit more room than the figure */
+  grid-template-columns: 1fr 1fr; /* text gets a bit more room than the figure (not anymore) */
   gap: 1.5em 2em;
   align-items: center;
   margin-bottom: 3em;
