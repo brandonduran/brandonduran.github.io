@@ -9,6 +9,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 **2026**
 
+ **Duran, B.M.**, Wall, C.J., Lutsko, N.J., Wynn, S., Watson-Parris, D., and Mülmenstädt, J. A new proxy for the LWP adjustment from first principles. *ESS Open Archive*. ([preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2811/))
+
 **Duran, B.M.**, Lutsko, N.J., and Wall, C.J. Aerosol-Ice-Cloud Interactions in a Perturbed Parameter Ensemble (2026). *Journal of Climate*. https://doi.org/10.1175/JCLI-D-25-0724.1. ([manuscript](https://journals.ametsoc.org/view/journals/clim/39/14/JCLI-D-25-0724.1.xml))
 
 Wynn, S., Watson-Parris, D., **Duran, B.M.**, and Mülmenstädt, J. Base-state dependence of parameter sensitivity for the Twomey effect in a perturbed parameter ensemble (preprint). *Atmospheric Chemistry and Physics*. ([preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2811/))
