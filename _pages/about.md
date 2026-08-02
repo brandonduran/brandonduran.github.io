@@ -12,6 +12,8 @@ I am a fourth-year PhD Candidate in the Climate Sciences (CS) program at Scripps
 
 Outside of my work, I enjoy baking, running, hiking, and cycling.
 
+**08/26** New [preprint](https://essopenarchive.org/doi/abs/10.22541/essoar.15006786/v1) out with Casey, Nick, Duncan, Sophie & Johannes. We develop a simple model for the LWP adjustment from first principles and use it to motivate a proxy based on fractional LWP changes!
+
 **06/26** Gave a talk as part of late shift in hour 34 of the [2026 Climate & Weather Livestream](https://www.youtube.com/embed/dXRuA8DOWzU?si=8ay2VkZr0XS0QExw) and our aerosol-ice cloud interactions paper was published in [Journal of Climate](https://doi.org/10.1175/JCLI-D-25-0724.1)!
 
 **02/26** I shared the results of our recent investigation of aerosol-ice-cloud interactions in CAM6 at the [CESM Winter Working Group Meeting](https://youtu.be/qnUibSzsBqc?si=VsjlbYC7_jHxAhAp&t=2742).
