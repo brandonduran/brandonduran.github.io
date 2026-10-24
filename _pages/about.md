@@ -12,6 +12,8 @@ I am a fifth-year PhD Candidate in the Climate Sciences (CS) program at Scripps 
 
 Outside of my work, I enjoy baking, running, hiking, and cycling.
 
+**10/26** Double conference week in Asia! I presented at the AeroCom/AeroSAT joint workshop in Fukuoka, Japan, and then presented at the CFMIP meeting in Taipei, Taiwan! I also was invited to give a seminar on aerosol-ice-cloud interactions at Lawrence Livermore National Lab!
+
 **08/26** New [preprint](https://essopenarchive.org/doi/abs/10.22541/essoar.15006786/v1) out with Casey, Nick, Duncan, Sophie & Johannes. We develop a simple model for the LWP adjustment from first principles and use it to motivate a proxy based on fractional LWP changes!
 
 **06/26** Gave a talk as part of late shift in hour 34 of the [2026 Climate & Weather Livestream](https://www.youtube.com/embed/dXRuA8DOWzU?si=8ay2VkZr0XS0QExw) and our aerosol-ice cloud interactions paper was published in [Journal of Climate](https://doi.org/10.1175/JCLI-D-25-0724.1)!
